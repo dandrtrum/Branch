@@ -1,0 +1,6 @@
+Summary(описание):
+Severity(серьезность):
+Priority(приоритет):
+Steps to reproduce(Шаги вспроизведения):
+Actual result(Фактический результат):
+Expected result(Ожидаемый результат): 
